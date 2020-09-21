@@ -1,8 +1,2 @@
 SCREENSHOOT PROGRAM
-
-<img
-src=“Pictures/SS.png”
-raw=true
-alt=“Subject Pronouns”
-style=“margin-right: 10px;”
-/>
+![SS](D:\MegaSync\Semester 5\Kriptografi\Praktikum\ShiftCipher\SS.png)
