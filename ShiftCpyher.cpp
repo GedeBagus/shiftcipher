@@ -1,3 +1,9 @@
+/*
+Gede Bagus Darmagita
+140810180068
+Program shift cipher
+*/
+
 #include <iostream>
 #include <string.h>
 using namespace std;
