@@ -1,2 +1,5 @@
-SCREENSHOOT PROGRAM
-![SS](D:\MegaSync\Semester 5\Kriptografi\Praktikum\ShiftCipher\SS.png)
+# SCREENSHOOT PROGRAM
+![Alt text](https://i.ibb.co/Y8nD05Z/SS.png "Shift Cipher")
+
+Gede Bagus
+140810180068
